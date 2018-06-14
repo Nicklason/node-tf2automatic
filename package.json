@@ -1,0 +1,26 @@
+{
+    "name": "tf2automatic",
+    "version": "1.0.0",
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "description": "A module used to interact with the tf2automatic API",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Nicklason/node-tf2automatic.git"
+    },
+    "author": {
+        "name": "Nicklas Marc Pedersen",
+        "url": "https://nicklas.io"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Nicklason/node-tf2automatic/issues"
+    },
+    "homepage": "https://github.com/Nicklason/node-tf2automatic#readme",
+    "dependencies": {
+        "async": "^2.6.1",
+        "request": "^2.87.0"
+    }
+}
