@@ -1,6 +1,6 @@
 {
     "name": "tf2automatic",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "engines": {
         "node": ">=6.0.0"
     },
@@ -21,6 +21,7 @@
     "homepage": "https://github.com/Nicklason/node-tf2automatic#readme",
     "dependencies": {
         "async": "^2.6.1",
+        "isobject": "^3.0.1",
         "request": "^2.87.0"
     }
 }
