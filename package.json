@@ -1,6 +1,6 @@
 {
     "name": "tf2automatic",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "engines": {
         "node": ">=6.0.0"
     },
