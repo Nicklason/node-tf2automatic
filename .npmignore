@@ -2,3 +2,4 @@ examples/
 tests/
 .gitattributes
 .eslintrc
+npm-debug.log*
